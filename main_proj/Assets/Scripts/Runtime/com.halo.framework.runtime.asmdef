@@ -1,0 +1,15 @@
+{
+    "name": "com.halo.framework.runtime",
+    "references": [
+        "GUID:16da52b03a22acc46b7183ec8d60e3fc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
